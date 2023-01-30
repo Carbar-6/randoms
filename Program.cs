@@ -3,4 +3,4 @@ Console.WriteLine("Just a random test project");
 
 var input = Console.ReadLine();
 
-Console.WriteLine(input);
+Console.WriteLine(input + " or something.");
