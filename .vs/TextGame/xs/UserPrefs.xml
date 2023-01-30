@@ -1,0 +1,68 @@
+﻿<Properties StartupConfiguration="{2FE53104-5B03-41BC-9CC3-605A63130F3E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TextGame/Game.cs">
+    <Files>
+      <File FileName="TextGame/Locations/Location.cs" Line="6" Column="50" />
+      <File FileName="TextGame/Items/Item.cs" Line="1" Column="1" />
+      <File FileName="TextGame/Player.cs" />
+      <File FileName="TextGame/Locations/Cave.cs" />
+      <File FileName="TextGame/Locations/IOutdoorsArea.cs" />
+      <File FileName="TextGame/Locations/IRoom.cs" />
+      <File FileName="TextGame/Locations/Plain.cs" />
+      <File FileName="TextGame/Locations/Forest.cs" />
+      <File FileName="TextGame/Locations/Hall.cs" />
+      <File FileName="TextGame/NPCs/Boar.cs" />
+      <File FileName="TextGame/Items/Tool.cs" />
+      <File FileName="TextGame/Items/WearableItem.cs" />
+      <File FileName="TextGame/Items/ProteinShake.cs" />
+      <File FileName="TextGame/Interactions.cs" Line="1" Column="1" />
+      <File FileName="TextGame/Items/Flashlight.cs" />
+      <File FileName="TextGame/Items/Weapon.cs" />
+      <File FileName="TextGame/Items/Book.cs" />
+      <File FileName="TextGame/Items/Robe.cs" />
+      <File FileName="TextGame/Items/Shovel.cs" />
+      <File FileName="TextGame/Items/Sword.cs" />
+      <File FileName="TextGame/NPCs/OldMan.cs" />
+      <File FileName="TextGame/NPCs/IFriend.cs" />
+      <File FileName="TextGame/NPCs/IEnemy.cs" />
+      <File FileName="TextGame/Items/Coin.cs" />
+      <File FileName="TextGame/Program.cs" Line="1" Column="1" />
+      <File FileName="TextGame/Descriptions/HutDescription.cs" />
+      <File FileName="TextGame/Descriptions/PlainDescriptions.cs" />
+      <File FileName="TextGame/Locations/Hut.cs" />
+      <File FileName="TextGame/Descriptions/ForestDescriptions.cs" />
+      <File FileName="TextGame/Locations/Mountain.cs" />
+      <File FileName="TextGame/Descriptions/CaveDescriptions.cs" />
+      <File FileName="TextGame/Descriptions/MountainSummitDescriptions.cs" />
+      <File FileName="TextGame/Descriptions/HallDescription.cs" />
+      <File FileName="TextGame/Directions.cs" />
+      <File FileName="TextGame/Game.cs" Line="24" Column="1" />
+      <File FileName="TextGame/Locations/Castle.cs" />
+      <File FileName="TextGame/ICommandable.cs" />
+      <File FileName="TextGame/NPCs/NPC.cs" Line="1" Column="1" />
+      <File FileName="TextGame/GameObjectInitializer.cs" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TextGame" expanded="True">
+            <Node name="TextGame" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Descriptions" expanded="True" />
+              <Node name="Items" expanded="True" />
+              <Node name="Locations" expanded="True" />
+              <Node name="NPCs" expanded="True" />
+              <Node name="Game.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TextGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/carlbrannstrom/Projects/TextGame/TextGame/bin/Debug/TextGame.exe
+/Users/carlbrannstrom/Projects/TextGame/TextGame/bin/Debug/TextGame.pdb
+/Users/carlbrannstrom/Projects/TextGame/TextGame/obj/Debug/TextGame.csproj.CoreCompileInputs.cache
+/Users/carlbrannstrom/Projects/TextGame/TextGame/obj/Debug/TextGame.exe
+/Users/carlbrannstrom/Projects/TextGame/TextGame/obj/Debug/TextGame.pdb
+/Users/carlbrannstrom/Projects/TextGame/TextGame/obj/Debug/TextGame.csproj.AssemblyReference.cache
