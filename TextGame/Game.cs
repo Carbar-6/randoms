@@ -28,6 +28,7 @@ namespace TextGame
         private Tool proteinShake = new ProteinShake(0.5, "Proteinshake", 4);
         private Weapon sword = new Sword(5, "Sword", 35);
         private Coin coin = new Coin(0.1, "Coin", 1);
+        private Weapon knife = new Sword(2, "Knife", 3);
 
         private Interactions interactions = new Interactions();
 
